@@ -1,20 +1,7 @@
 # Laporan Harian Setoran Gold Farming — EVO GAMING FH2
 
-Aplikasi web statis (HTML + JS, tanpa backend) untuk mencatat setoran gold farming harian per karyawan, lengkap dengan nama game dan jam setoran otomatis, serta ekspor laporan ke WhatsApp.
+Aplikasi web statis  untuk mencatat setoran gold farming harian per karyawan, lengkap dengan nama game dan jam setoran otomatis, serta ekspor laporan ke WhatsApp.
 
-## Cara Upload ke GitHub
-
-1. Buat repository baru di GitHub (bisa publik atau privat).
-2. Upload file `index.html` ini ke root repository (drag & drop lewat tombol **Add file → Upload files** di halaman GitHub, atau via `git push`).
-3. Commit perubahan.
-
-## Cara Mengaktifkan sebagai Website (GitHub Pages)
-
-1. Buka repository → tab **Settings**.
-2. Di sidebar kiri, klik **Pages**.
-3. Pada bagian **Source**, pilih branch `main` (atau `master`) dan folder `/ (root)`.
-4. Klik **Save**.
-5. Tunggu 1–2 menit, lalu buka link yang muncul (formatnya `https://namauser.github.io/nama-repo/`).
 
 ## Catatan Penting
 
